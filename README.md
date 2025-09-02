@@ -1,2 +1,3 @@
 # Latihan_bisdig
-Workshop sistem terintegrasi 
+Workshop sistem informasi terintegrasi 
+
