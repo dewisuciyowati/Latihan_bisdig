@@ -1,3 +1,3 @@
-# latihan_bisdig
+# Latihan_bisdig
 Workshop sistem informasi terintegrasi 
 
