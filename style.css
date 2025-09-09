@@ -16,15 +16,36 @@ text-align:center;
 font-family: Tahoma, Arial, Helvetica, Sans-serif;
 background: cyan;
 }
+#main-nav a{
+color: #c9c9c9;
+text-decoration: none;
+}
+#main-nav a:hover{color: #db6d16;}
 #header {
 background: blue;
 height: 140px;
 }
 #content {
 background: green;
-}
+}#content {
+font-family:Tahoma, arial, helvetica, sans-serif;
+font-size:14px;
+padding: 15px 15px;}
+
 #footer {
+clear: both;
 background: orange;
 height: 66px;
-text-align:center;
+font-family: Tahoma, Arial, Helvetica, Sans-serif;
+font-size: 10px;
+color: #c9c9c9;
+border-top: 1px solid #efefef;
+padding: 13px 25px;
+line-height: 18px;
 }
+#side-bar{
+background:#9966
+00; float:right;
+width:150px;
+height: 66px;
+text-align: right;}
