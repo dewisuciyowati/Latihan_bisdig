@@ -7,5 +7,24 @@ font-size: 18pt
 #page-container { 
     width: 760px; 
     margin: auto; 
-    background: red;
+    background: rgb(219, 216, 219);
+}
+
+#main-nav {
+height: 150px;
+text-align:center;
+font-family: Tahoma, Arial, Helvetica, Sans-serif;
+background: cyan;
+}
+#header {
+background: blue;
+height: 140px;
+}
+#content {
+background: green;
+}
+#footer {
+background: orange;
+height: 66px;
+text-align:center;
 }
